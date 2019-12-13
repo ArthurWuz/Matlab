@@ -18,6 +18,6 @@ learning matlab
 
 ## 最小二乘法
 
-设yT=[y1...yn]yT=[y1...yn]是nn维行向量，x=[x1,...,xp]x=[x1,...,xp]是pp维列向量，则：
+设yT=[y1...yn]是n维行向量，x=[x1,...,xp]是p维列向量，则：
 
-∂yT∂x==[∂y1∂x...∂yn∂x]⎡⎣⎢⎢⎢∂y1∂x1...∂y1∂xp.........∂yn∂x1...∂yn∂xp⎤⎦⎥⎥⎥
+
